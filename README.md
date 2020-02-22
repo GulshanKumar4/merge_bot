@@ -1,8 +1,8 @@
 [![build status](https://travis-ci.org/smarkets/marge-bot.svg?branch=master)](https://travis-ci.org/smarkets/marge-bot)
 
-# Marge-bot
+# Merge-bot
 
-Marge-bot is a merge-bot for GitLab that, beside other goodies,
+Merge-bot is a merge-bot for GitLab that, beside other goodies,
 implements
 [the Not Rocket Science Rule Of Software Engineering:](http://graydon2.dreamwidth.org/1597.html)
 
