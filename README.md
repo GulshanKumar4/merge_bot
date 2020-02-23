@@ -491,7 +491,7 @@ E.g. `git revert-mr 123`.
 
 ## Troubleshooting
 
-Marge-bot continuously logs what she is doing, so this is a good place to look
+Merge-bot continuously logs what she is doing, so this is a good place to look
 in case of issues. In addition, by passing the `--debug` flag, additional info
 such as REST requests and responses will be logged. When opening an issue,
 please include a relevant section of the log, ideally ran with `--debug` enabled.
