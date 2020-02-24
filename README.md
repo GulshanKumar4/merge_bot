@@ -34,7 +34,7 @@ doesn't scale: if you have, a mono-repo, a large team working on short-lived
 branches, a CI pipeline that takes 5-10 minutes to complete... then the number
 of times one need's to rebase-and-try-to-accept starts to become unbearable.
 
-Marge-bot offers the simplest of workflows: when a merge-request is ready, just
+Merge-bot offers the simplest of workflows: when a merge-request is ready, just
 assign it to its user, and let her do all the rebase-wait-retry for you. If
 anything goes wrong (merge conflicts, tests that fail, etc.) she'll leave a
 message on the merge-request, so you'll get notified. Marge-bot can handle an
