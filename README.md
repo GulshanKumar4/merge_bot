@@ -1,4 +1,4 @@
-[![build status](https://travis-ci.org/smarkets/marge-bot.svg?branch=master)](https://travis-ci.org/smarkets/marge-bot)
+[![build status](https://travis-ci.org/smarkets/merge-bot.svg?branch=master)](https://travis-ci.org/smarkets/merge-bot)
 
 # Merge-bot
 
@@ -13,7 +13,7 @@ implements
 This simple rule of thumb is still nowadays surprisingly difficult to implement
 with the state-of-the-art tools, and more so in a way that scales with team size
 (also see our [blog
-post](https://smarketshq.com/marge-bot-for-gitlab-keeps-master-always-green-6070e9d248df)).
+post](https://smarketshq.com/merge-bot-for-gitlab-keeps-master-always-green-6070e9d248df)).
 
 Take, for instance, GitHub's well-known
 [pull-request workflow](https://help.github.com/categories/collaborating-with-issues-and-pull-requests).
