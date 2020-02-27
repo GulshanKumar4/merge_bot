@@ -58,7 +58,7 @@ config file values which override defaults.
 optional arguments:
   -h, --help            show this help message and exit
   --config-file CONFIG_FILE
-                        config file path   [env var: MARGE_CONFIG_FILE] (default: None)
+                        config file path   [env var: MeRGE_CONFIG_FILE] (default: None)
   --auth-token TOKEN    Your GitLab token.
                         DISABLED because passing credentials on the command line is insecure:
                         You can still set it via ENV variable or config file, or use "--auth-token-file" flag.
