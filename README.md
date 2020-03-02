@@ -37,7 +37,7 @@ of times one need's to rebase-and-try-to-accept starts to become unbearable.
 Merge-bot offers the simplest of workflows: when a merge-request is ready, just
 assign it to its user, and let her do all the rebase-wait-retry for you. If
 anything goes wrong (merge conflicts, tests that fail, etc.) she'll leave a
-message on the merge-request, so you'll get notified. Marge-bot can handle an
+message on the merge-request, so you'll get notified. Merge-bot can handle an
 adversarial environment where some developers prefer to merge their own changes,
 so the barrier for adoption is really low.
 
