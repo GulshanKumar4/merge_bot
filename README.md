@@ -62,7 +62,7 @@ optional arguments:
   --auth-token TOKEN    Your GitLab token.
                         DISABLED because passing credentials on the command line is insecure:
                         You can still set it via ENV variable or config file, or use "--auth-token-file" flag.
-                           [env var: MARGE_AUTH_TOKEN] (default: None)
+                           [env var: MERGE_AUTH_TOKEN] (default: None)
   --auth-token-file FILE
                         Path to your GitLab token file.
                            [env var: MARGE_AUTH_TOKEN_FILE] (default: None)
