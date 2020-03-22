@@ -67,8 +67,8 @@ optional arguments:
                         Path to your GitLab token file.
                            [env var: MERGE_AUTH_TOKEN_FILE] (default: None)
   --gitlab-url URL      Your GitLab instance, e.g. "https://gitlab.example.com".
-                           [env var: MARGE_GITLAB_URL] (default: None)
-  --ssh-key KEY         The private ssh key for marge so it can clone/push.
+                           [env var: MERGE_GITLAB_URL] (default: None)
+  --ssh-key KEY         The private ssh key for merge so it can clone/push.
                         DISABLED because passing credentials on the command line is insecure:
                         You can still set it via ENV variable or config file, or use "--ssh-key-file" flag.
                            [env var: MARGE_SSH_KEY] (default: None)
