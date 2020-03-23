@@ -71,7 +71,7 @@ optional arguments:
   --ssh-key KEY         The private ssh key for merge so it can clone/push.
                         DISABLED because passing credentials on the command line is insecure:
                         You can still set it via ENV variable or config file, or use "--ssh-key-file" flag.
-                           [env var: MARGE_SSH_KEY] (default: None)
+                           [env var: MERGE_SSH_KEY] (default: None)
   --ssh-key-file FILE   Path to the private ssh key for marge so it can clone/push.
                            [env var: MARGE_SSH_KEY_FILE] (default: None)
   --embargo INTERVAL[,..]
