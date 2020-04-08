@@ -82,7 +82,7 @@ optional arguments:
                         If you need to use a strict no-rebase workflow (in most cases
                         you don't want this, even if you configured gitlab to use merge requests
                         to use merge commits on the *target* branch (the default).)
-                           [env var: MARGE_USE_MERGE_STRATEGY] (default: False)
+                           [env var: MERGE_USE_MERGE_STRATEGY] (default: False)
   --add-tested          Add "Tested: marge-bot <$MR_URL>" for the final commit on branch after it passed CI.
                            [env var: MARGE_ADD_TESTED] (default: False)
   --batch               Enable processing MRs in batches
